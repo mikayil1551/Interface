@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\YenidenC#\OOP\4.28.2021\Interface_\Interface_\bin\Debug\Interface_.exe.config
+C:\Users\User\Desktop\YenidenC#\OOP\4.28.2021\Interface_\Interface_\bin\Debug\Interface_.exe
+C:\Users\User\Desktop\YenidenC#\OOP\4.28.2021\Interface_\Interface_\bin\Debug\Interface_.pdb
+C:\Users\User\Desktop\YenidenC#\OOP\4.28.2021\Interface_\Interface_\obj\Debug\Interface_.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\YenidenC#\OOP\4.28.2021\Interface_\Interface_\obj\Debug\Interface_.Properties.Resources.resources
+C:\Users\User\Desktop\YenidenC#\OOP\4.28.2021\Interface_\Interface_\obj\Debug\Interface_.csproj.GenerateResource.cache
+C:\Users\User\Desktop\YenidenC#\OOP\4.28.2021\Interface_\Interface_\obj\Debug\Interface_.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\YenidenC#\OOP\4.28.2021\Interface_\Interface_\obj\Debug\Interface_.exe
+C:\Users\User\Desktop\YenidenC#\OOP\4.28.2021\Interface_\Interface_\obj\Debug\Interface_.pdb
+C:\Users\User\Desktop\YenidenC#\OOP\4.28.2021\Interface_\Interface_\obj\Debug\Interface_.Form1.resources
